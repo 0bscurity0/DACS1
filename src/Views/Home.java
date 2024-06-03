@@ -43,7 +43,7 @@ import javax.swing.border.TitledBorder;
 import javax.swing.UIManager;
 
 public class Home extends javax.swing.JFrame {
-
+// Hello
 	Student student = new Student();
 	Subject subject = new Subject();
 	Score score = new Score();
